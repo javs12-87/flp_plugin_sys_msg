@@ -1,0 +1,4 @@
+@EndUserText.label: 'System Message Service'
+define service ZSYS_MESSAGES {
+  expose Zce_Sys_Messages;
+}
